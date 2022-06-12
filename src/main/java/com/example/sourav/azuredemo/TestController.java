@@ -11,7 +11,7 @@ public class TestController {
 	public String test() {
 		
 		
-		return "Welcome to Azure CI/CD";
+		return "Welcome again to Azure CI/CD";
 	}
 
 }
